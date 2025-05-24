@@ -86,6 +86,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
+
 ## 🌍 Deploying the App
 
 📌 Recommended: Streamlit Community Cloud (free)
@@ -108,6 +110,11 @@ Project
 └── requirements.txt        # List of dependencies
 ```
 
+---
+
 📌 Notes
 - This app is meant for educational purposes, and for me, as a way of getting started with the Streamlit library
 - All values are indicative and not financial advice.
+---
+👨‍💻 Author
+Developed with ❤️ by Alberto AJ - AI/ML Engineer out of an endless curiosity and a passion for learning new things.
